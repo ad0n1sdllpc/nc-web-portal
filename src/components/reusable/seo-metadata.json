@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_reusable_seo_metadata",
+  "info": {
+    "displayName": "SEO Metadata"
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    },
+    "metaDescription": {
+      "type": "text"
+    }
+  }
+}
